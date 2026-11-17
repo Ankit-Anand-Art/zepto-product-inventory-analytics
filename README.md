@@ -20,6 +20,8 @@ assortment insights that can support data-driven product decisions.
 The dataset contains information on 3,700+ product SKUs across
 multiple product categories.
 
+Datset Link: https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv
+
 Key attributes include:
 
 - Product category
