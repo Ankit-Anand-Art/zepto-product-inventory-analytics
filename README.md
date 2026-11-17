@@ -71,31 +71,3 @@ zepto-product-inventory-analytics/
 ├── Zepto_Analysis.sql
 └── data/
     └── zepto_v2.csv
-
-
-
-### 4. Important: don't overclaim
-
-Since your current dataset is **product/inventory-level**, don't write things like:
-
-- Customer retention
-- Conversion rate
-- Revenue
-- Customer lifetime value
-- Repeat purchase rate
-
-unless you actually have the underlying order/customer data.
-
-Your current SQL supports pricing, discount, inventory, stock availability, category and product-value analysis. :chatgpt-content-reference{index="2"}
-
-### 5. GitHub presentation
-
-Once uploaded, your repository should immediately show:
-
-**Zepto Product & Inventory Analytics**
-
-> MySQL project analyzing 3,700+ product SKUs across multiple categories to derive pricing, inventory, stock availability, and assortment insights.
-
-Then a recruiter can open `Zepto_Analysis.sql` and see the actual SQL.
-
-If you want, I can also **create a polished `README.md` and a cleaned final `Zepto_Analysis.sql` for you as downloadable files**, ready to drag-and-drop into GitHub.
