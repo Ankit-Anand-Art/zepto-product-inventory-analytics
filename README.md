@@ -1,5 +1,3 @@
-# zepto-product-inventory-analytics
-
 # Zepto Product & Inventory Analytics
 
 ## 📌 Project Overview
